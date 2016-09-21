@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Orland Park location",
+    "street_address": "167 Mayfair Court",
+    "city": "Orland Park",
+    "state": "IL",
+    "zip": "60462",
+    "phone": "575-555-5555"
+  },
+  {
+    "id": 2,
+    "name": "Kernersville location",
+    "street_address": "97 Jockey Hollow Lane",
+    "city": "Kernersville",
+    "state": "NC",
+    "zip": "27284",
+    "phone": "201-555-5555"
+  },
+  {
+    "id": 3,
+    "name": "Upland location",
+    "street_address": "85 Longfellow Ave",
+    "city": "Upland",
+    "state": "CA",
+    "zip": "91784",
+    "phone": "978-555-5555"
+  }
+]
